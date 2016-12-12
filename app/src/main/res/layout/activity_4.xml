@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="toyer.lab3_app2.Activity4">
+    tools:context="com.example.nastyagurskaya.lab3_app2.Activity4">
 
     <Button
         android:layout_width="wrap_content"
